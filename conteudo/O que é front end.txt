@@ -1,11 +1,14 @@
-O desenvolvedor front-end é responsável pela experiência do usuário dentro de uma aplicação web, 
-é ele quem vai desenhar e desenvolver as páginas com as quais, posteriormente, o usuário irá interagir. 
+<html>
+<head> FRONT END </head>
+<body>
+
+<h1>Como aprender?</h1>
+<p>O desenvolvedor front-end é responsável pela experiência do usuário dentro de uma aplicação web, 
+é ele quem vai desenhar e desenvolver as páginas com as quais, posteriormente, o usuário irá interagir.
 
 O front-end também inclui elementos que determinam a identidade visual de um site ou aplicativo, por isso,
  além do conhecimento de linguagens de programação específicas, 
 um desenvolvedor dessa área só tem a ganhar se tiver noções de design, arquitetura da informação e UX.
 
-Como aprender?
-
 Para ser um desenvolvedor front-end você precisa se familiarizar com lógica de programação aprender algumas linguagens, 
-como HTML, CSS, Javascript e Flash. Essas são as principais linguagens utilizadas para criar interfaces de uma aplicação. 
+como HTML, CSS, Javascript e Flash. Essas são as principais linguagens utilizadas para criar interfaces de uma aplicação. </p>
